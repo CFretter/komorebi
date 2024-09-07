@@ -24,9 +24,12 @@ did systematic experiments with a cheese grater
 
 [short video] (https://youtu.be/CNX8Lc9OP34?si=c_FgE2Z_knYCC9FQ)
 
-realised that blurred circles can not reproduce the effect
-remembered that a an interrupted planar wave is equivalent to ininetly many point emmiters along its cut
-implemented a confolution between one circle and a pattern of many circles
+realised that blurred circles can not reproduce the effect, it just becomes uniformly gray, the
+"dark circles on light background" do not happen
+
+remembered that a an interrupted planar wave is equivalent to infinetly many point emmiters along its cut
+
+implemented a convolution between one circle and a pattern of many circles
 
 ![single layer](generated/grater.png "grater")
 ![single layer](generated/sun.png "sun")
