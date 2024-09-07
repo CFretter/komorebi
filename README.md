@@ -14,9 +14,6 @@ Two layers
 
 ![gaussian two layer](generated/gaussian_2_layer.png "gaussian two layer")
 
-![gaussian two layer](generated/gaussian_2_layer.webm.mov "gaussian two layer")
-
-
 
 https://github.com/user-attachments/assets/78c0919e-8389-40a7-a0c1-92b9deae85da
 
