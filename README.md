@@ -5,8 +5,8 @@ cut out holes in a sheet of payper and play in the sun,
 [short video] (https://youtube.com/shorts/05zTaUEyhlc?si=YrmlXLZLmC7IlnCp)
 
 tried to emulate it by stacking (multiplying) layers blurred random ellipses, 
-![gaussian one layer](gaussian_1_layer.png "gaussian one layer")
-![gaussian two layer](gaussian_1_layer.png "gaussian two layer")
+![gaussian one layer](generated/gaussian_1_layer.png "gaussian one layer")
+![gaussian two layer](generated/gaussian_1_layer.png "gaussian two layer")
 
 
 
