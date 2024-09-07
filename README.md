@@ -4,9 +4,15 @@ sunlight filtering through trees
 cut out holes in a sheet of payper and play in the sun,
 [short video] (https://youtube.com/shorts/05zTaUEyhlc?si=YrmlXLZLmC7IlnCp)
 
-tried to emulate it by stacking (multiplying) layers blurred random ellipses, 
+tried to emulate it by stacking (multiplying) layers blurred random ellipses:
+
+One layer
+
 ![gaussian one layer](generated/gaussian_1_layer.png "gaussian one layer")
-![gaussian two layer](generated/gaussian_1_layer.png "gaussian two layer")
+
+Two layers
+
+![gaussian two layer](generated/gaussian_2_layer.png "gaussian two layer")
 
 
 
