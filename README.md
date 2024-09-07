@@ -14,7 +14,7 @@ Two layers
 
 ![gaussian two layer](generated/gaussian_2_layer.png "gaussian two layer")
 
-![gaussian two layer](generated/gaussian_2_layer.mp4 "gaussian two layer")
+![gaussian two layer](generated/gaussian_2_layer.webm.mov "gaussian two layer")
 
 
 
